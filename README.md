@@ -1,8 +1,8 @@
 # golang-pbkk-d
 
-Nama : Bryant Nathaneil Tanujaya
-NRP : 5025221175
-Kelas : PBKK D
+Nama : Bryant Nathaniel Tanujaya<br>
+NRP : 5025221175<br>
+Kelas : PBKK D<br>
 
 # User Input up to Switch Statement
 `Successful ticket booking`<br>
